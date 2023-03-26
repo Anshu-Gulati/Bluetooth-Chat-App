@@ -61,7 +61,7 @@ Adding Push notifications.
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome README](https://github.com/Anshu-Gulati?tab=repositories)
 
 
 ## Feedback
